@@ -14,12 +14,15 @@ namespace DemoProject1.Main
             student3.Age = 19;
             Student student4 = new Student("Bob", "Brown", 88.5);
             student4.Age = 22;
+            Student student5 = new Student("Charlie", "Davis", 95.0);
+            student5.Age = 23;
 
             Group group1 = new Group();
             group1.AddStudent(student1);
             group1.AddStudent(student2);
             group1.AddStudent(student3);
             group1.AddStudent(student4);
+            group1.AddStudent(student5);
 
 
             var students = group1.GetAllStudents();

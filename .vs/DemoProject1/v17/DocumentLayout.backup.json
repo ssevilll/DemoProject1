@@ -34,9 +34,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Program.cs",
               "RelativeDocumentMoniker": "DemoProject1.Main\\Program.cs",
-              "ToolTip": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Program.cs*",
-              "RelativeToolTip": "DemoProject1.Main\\Program.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwC0AAAA9AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Program.cs",
+              "RelativeToolTip": "DemoProject1.Main\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T08:20:27.577Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "DemoProject1.Main\\Models\\Student.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T08:25:36.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T08:25:36.471Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "DemoProject1.Main\\Models\\Group.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowCoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T08:34:03.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T08:34:03.45Z"
             }
           ]
         }
