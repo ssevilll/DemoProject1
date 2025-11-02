@@ -1,0 +1,14 @@
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\bin\Debug\net8.0\DemoProject1.Main.exe
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\bin\Debug\net8.0\DemoProject1.Main.deps.json
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\bin\Debug\net8.0\DemoProject1.Main.runtimeconfig.json
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\bin\Debug\net8.0\DemoProject1.Main.dll
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\bin\Debug\net8.0\DemoProject1.Main.pdb
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\DemoProject1.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\DemoProject1.Main.AssemblyInfoInputs.cache
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\DemoProject1.Main.AssemblyInfo.cs
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\DemoProject1.Main.csproj.CoreCompileInputs.cache
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\DemoProject1.Main.dll
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\refint\DemoProject1.Main.dll
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\DemoProject1.Main.pdb
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\DemoProject1.Main.genruntimeconfig.cache
+C:\Users\sevilsb\Desktop\DemoProject1\DemoProject1.Main\obj\Debug\net8.0\ref\DemoProject1.Main.dll
