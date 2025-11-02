@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{963CDE57-46D9-4502-849A-F24C40CAEB5D}|DemoProject1.Main\\DemoProject1.Main.csproj|solutionrelative:demoproject1.main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963CDE57-46D9-4502-849A-F24C40CAEB5D}|DemoProject1.Main\\DemoProject1.Main.csproj|c:\\users\\sevilsb\\desktop\\demoproject1\\demoproject1.main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963CDE57-46D9-4502-849A-F24C40CAEB5D}|DemoProject1.Main\\DemoProject1.Main.csproj|solutionrelative:demoproject1.main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{963CDE57-46D9-4502-849A-F24C40CAEB5D}|DemoProject1.Main\\DemoProject1.Main.csproj|c:\\users\\sevilsb\\desktop\\demoproject1\\demoproject1.main\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{963CDE57-46D9-4502-849A-F24C40CAEB5D}|DemoProject1.Main\\DemoProject1.Main.csproj|solutionrelative:demoproject1.main\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963CDE57-46D9-4502-849A-F24C40CAEB5D}|DemoProject1.Main\\DemoProject1.Main.csproj|c:\\users\\sevilsb\\desktop\\demoproject1\\demoproject1.main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963CDE57-46D9-4502-849A-F24C40CAEB5D}|DemoProject1.Main\\DemoProject1.Main.csproj|solutionrelative:demoproject1.main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,33 +36,33 @@
               "RelativeDocumentMoniker": "DemoProject1.Main\\Program.cs",
               "ToolTip": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Program.cs",
               "RelativeToolTip": "DemoProject1.Main\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T08:20:27.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DemoProject1.Main\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Models\\Student.cs",
               "RelativeToolTip": "DemoProject1.Main\\Models\\Student.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T08:25:36.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Models\\Group.cs",
               "RelativeDocumentMoniker": "DemoProject1.Main\\Models\\Group.cs",
               "ToolTip": "C:\\Users\\sevilsb\\Desktop\\DemoProject1\\DemoProject1.Main\\Models\\Group.cs",
               "RelativeToolTip": "DemoProject1.Main\\Models\\Group.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T08:34:03.45Z",
               "EditorCaption": ""

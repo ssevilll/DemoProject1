@@ -10,7 +10,7 @@
         public double Points { get; set; }
 
 
-        public int Id;
+        public int Id { get; }
 
         public Student(string name, string surname, double point)
         {

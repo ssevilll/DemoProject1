@@ -3,7 +3,7 @@
     internal class Group 
     {
         private static int _no=100;
-        public string No;
+        public string No { get; }
         private Student[] _students;
 
         public Group()
@@ -25,7 +25,7 @@
             return _students;
         }
 
-        public void Sort()
+        public Student[] Sort()
         {
             Student[] NewArray= _students;
             for (int i=0; i<NewArray.Length; i++)
@@ -40,6 +40,7 @@
                     }
                 }
             }
+            return NewArray;
         }
     }
 }

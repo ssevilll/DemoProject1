@@ -30,6 +30,7 @@ namespace DemoProject1.Main
             }
 
             group1.Sort();
+
             Console.WriteLine("\nAfter Sorting:\n");
             students = group1.GetAllStudents();
             foreach (Student student in students)
@@ -38,10 +39,11 @@ namespace DemoProject1.Main
             }
 
             Group group2 = new Group();
-            group2.AddStudent(student2);
+            Group group3 = new Group();
 
             Console.WriteLine($"\nGroup1 number: { group1.No}");
             Console.WriteLine($"Group2 number: {group2.No}");
+            Console.WriteLine($"Group3 number: {group3.No}");
         }
     }
 }
